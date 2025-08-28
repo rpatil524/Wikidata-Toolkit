@@ -1,6 +1,12 @@
 Wikidata Toolkit Release Notes
 ==============================
 
+Version 0.17.0
+--------------
+
+New feature:
+* Ability to set the user agent used in MediaWiki API calls (#960)
+
 Version 0.16.0
 --------------
 
