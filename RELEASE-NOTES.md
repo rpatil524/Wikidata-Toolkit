@@ -6,6 +6,7 @@ Version 0.17.0
 
 New feature:
 * Ability to set the user agent used in MediaWiki API calls (#960)
+* (Breaking) Expose exceptions in wdtk-dumpfiles module (#526)
 
 Version 0.16.0
 --------------
