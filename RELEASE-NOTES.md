@@ -1,6 +1,15 @@
 Wikidata Toolkit Release Notes
 ==============================
 
+Version 0.18.0
+--------------
+
+Wikidata-Toolkit now requires Java 17 or newer (#977)
+
+* Migrated to Jackson 3 (#977)
+* fix: Better error message for missing dump files (#973) 
+* feat(http): Enable reporting of source data on JSON parse failures (#963)
+
 Version 0.17.0
 --------------
 
